@@ -1,4 +1,7 @@
 # Warn
+
+[![Build Status](https://travis-ci.com/inferno-collection/Warn.svg?branch=master)](https://travis-ci.com/inferno-collection/Warn)
+
 A very basic warn command, created in responce to [this post on the FiveM Forums](https://forum.fivem.net/t/help-please-warn-command/732378). Resource contains one commad, and a steam hex whitelist file.
 
 ```
