@@ -1,4 +1,4 @@
-# IInferno Collection Warn - Version 1.0
+# Inferno Collection Loadout - Version 1.0
 #
 # Copyright (c) 2019, Christopher M, Inferno Collection. All rights reserved.
 #
@@ -32,4 +32,4 @@ install:
   - luarocks install luacheck
 
 script:
-  - luacheck -g -a --no-max-line-length --no-max-comment-line-length [inferno-collection]/inferno-warn
+  - luacheck -g -a --no-max-line-length --no-max-comment-line-length [inferno-collection]/inferno-loadout
