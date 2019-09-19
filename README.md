@@ -1,3 +1,4 @@
+![channels4_banner|690x114](https://i.ibb.co/CHMD8y6/channels4-banner.jpg) 
 # Loadout
 
 [![Build Status](https://travis-ci.com/inferno-collection/Loadout.svg?branch=master)](https://travis-ci.com/inferno-collection/Loadout)
